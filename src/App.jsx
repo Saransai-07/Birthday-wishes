@@ -55,7 +55,7 @@ function App() {
             Happy Birthday, My Love
           </p>
           <h1 className="bg-gradient-to-r from-pink-100 via-purple-100 to-rose-100 bg-clip-text text-4xl leading-tight font-semibold text-transparent sm:text-5xl md:text-6xl">
-            Parimala, you make every heartbeat feel like poetry.
+            Ammu, you make every heartbeat feel like poetry.
           </h1>
           <p className="mt-5 max-w-2xl text-base leading-relaxed text-purple-100/90 sm:text-lg">
             This little universe is for you, my beautiful girl. On your special day,
@@ -96,7 +96,7 @@ function App() {
 
           <section className="glass-card rounded-3xl p-6 sm:p-8">
             <h2 className="text-2xl font-semibold text-pink-100 sm:text-3xl">
-              Birthday wishes for Parimala
+              Birthday wishes for Ammu
             </h2>
             <ul className="mt-4 space-y-3">
               {birthdayWishes.map((wish) => (
@@ -116,7 +116,7 @@ function App() {
             With all my love, today and always.
           </p>
           <p className="mt-1 bg-gradient-to-r from-pink-100 via-purple-100 to-rose-100 bg-clip-text text-2xl font-semibold text-transparent sm:text-3xl">
-            Happy Birthday, Parimala ✨
+            Happy Birthday, Ammu ✨
           </p>
         </footer>
       </section>
